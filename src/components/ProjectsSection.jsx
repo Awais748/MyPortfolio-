@@ -31,6 +31,36 @@ const projects = [
     demoUrl: "https://paypal-landing-page-eight.vercel.app/",
     githubUrl: "https://github.com/Awais748/paypal-landing-page-.git",
   },
+  {
+    id: 4,
+    title: "Tic Tac Toe in React",
+    description:
+      "A modern, interactive Tic Tac Toe game built with React featuring dynamic gameplay and a clean dark UI.",
+    image: "/projects/tic-tac.png",
+    tags: ["React", "JavaScript", "CSS"],
+    demoUrl: "https://tictactoe-game-ruddy.vercel.app/",
+    githubUrl: "https://github.com/Awais748/Tic-Tac-Toe",
+  },
+  {
+    id: 5,
+    title: "To-Do List App",
+    description:
+      "A responsive To-Do List app built with React and Tailwind CSS, featuring easy task add, complete, and delete options.",
+    image: "/projects/todolist.png",
+    tags: ["React", "JavaScript", "Tailwind CSS"],
+    demoUrl: "https://todo-list-five-xi-85.vercel.app/",
+    githubUrl: "https://github.com/Awais748/Todo-list.git",
+  },
+  {
+    id: 6,
+    title: "Digital Clock",
+    description:
+      "A real-time digital clock built with React and CSS, featuring live updates, a sleek dark theme, and smooth transitions for a modern UI experience.",
+    image: "/projects/digitalclock.png",
+    tags: ["React", "JavaScript", "CSS"],
+    demoUrl: "https://digital-clock-amber-tau.vercel.app/",
+    githubUrl: "https://github.com/Awais748/Digital-clock",
+  },
 ];
 
 export function ProjectsSection() {
