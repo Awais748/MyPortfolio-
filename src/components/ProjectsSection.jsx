@@ -4,13 +4,13 @@ import { Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Monarachy Landing Page",
+    title: "Netflix Clone",
     description:
-      "Modern, fully responsive landing page with a clean, seamless design",
-    image: "/projects/project-1.png",
-    tags: ["HTML", "CSS", "Bootstrap"],
-    demoUrl: "https://monarchy-nine.vercel.app/",
-    githubUrl: "https://github.com/Awais748/MONARCHY.git",
+      "A fully responsive Netflix-inspired streaming platform built with React and Firebase, featuring secure authentication, protected routes, and video playback for a production-grade experience.",
+    image: "/projects/netflix.png",
+    tags: ["React", "Firebase", "JavaScript", "CSS"],
+    demoUrl: "https://netflix-clone-six-lake.vercel.app/",
+    githubUrl: "https://github.com/Awais748/netflix-clone",
   },
   {
     id: 2,
@@ -42,14 +42,14 @@ const projects = [
     githubUrl: "https://github.com/Awais748/Tic-Tac-Toe",
   },
   {
-    id: 5,
-    title: "To-Do List App",
+    id: 1,
+    title: "Monarachy Landing Page",
     description:
-      "A responsive To-Do List app built with React and Tailwind CSS, featuring easy task add, complete, and delete options.",
-    image: "/projects/todolist.png",
-    tags: ["React", "JavaScript", "Tailwind CSS"],
-    demoUrl: "https://todo-list-five-xi-85.vercel.app/",
-    githubUrl: "https://github.com/Awais748/Todo-list.git",
+      "Modern, fully responsive landing page with a clean, seamless design",
+    image: "/projects/project-1.png",
+    tags: ["HTML", "CSS", "Bootstrap"],
+    demoUrl: "https://monarchy-nine.vercel.app/",
+    githubUrl: "https://github.com/Awais748/MONARCHY.git",
   },
   {
     id: 6,
@@ -60,6 +60,16 @@ const projects = [
     tags: ["React", "JavaScript", "CSS"],
     demoUrl: "https://digital-clock-amber-tau.vercel.app/",
     githubUrl: "https://github.com/Awais748/Digital-clock",
+  },
+  {
+    id: 7,
+    title: "To-Do List App",
+    description:
+      "A responsive To-Do List app built with React and Tailwind CSS, featuring easy task add, complete, and delete options.",
+    image: "/projects/todolist.png",
+    tags: ["React", "JavaScript", "Tailwind CSS"],
+    demoUrl: "https://todo-list-five-xi-85.vercel.app/",
+    githubUrl: "https://github.com/Awais748/Todo-list.git",
   },
 ];
 
