@@ -42,7 +42,7 @@ const projects = [
     githubUrl: "https://github.com/Awais748/Tic-Tac-Toe",
   },
   {
-    id: 1,
+    id: 5,
     title: "Monarachy Landing Page",
     description:
       "Modern, fully responsive landing page with a clean, seamless design",
